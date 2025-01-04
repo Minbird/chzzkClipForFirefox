@@ -1,7 +1,6 @@
 // ==UserScript==
 // @name         Chzzk Clip for Firefox
-// @namespace    http://tampermonkey.net/
-// @version      2025-01-04
+// @version      0.0.1
 // @description  Override the user agent to Edge. (For now)
 // @author       Minbird
 // @updateURL    https://raw.githubusercontent.com/Minbird/chzzkClipForFirefox/refs/heads/main/chzzkClipForFirefox.js
