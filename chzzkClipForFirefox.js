@@ -4,6 +4,8 @@
 // @version      2025-01-04
 // @description  Override the user agent to Edge. (For now)
 // @author       Minbird
+// @updateURL    https://raw.githubusercontent.com/Minbird/chzzkClipForFirefox/refs/heads/main/chzzkClipForFirefox.js
+// @downloadURL  https://raw.githubusercontent.com/Minbird/chzzkClipForFirefox/refs/heads/main/chzzkClipForFirefox.js
 // @run-at       document-start
 // @match        https://chzzk.naver.com/clip-editor*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
